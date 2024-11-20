@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BiEclOij.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guides/xml/XML概述.md","filePath":"guides/xml/XML概述.md"}'),s={name:"guides/xml/XML概述.md"};function r(o,c,n,d,i,_){return a(),t("div")}const l=e(s,[["render",r]]);export{p as __pageData,l as default};
