@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BiEclOij.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guides/设计模式/index.md","filePath":"guides/设计模式/index.md"}'),n={name:"guides/设计模式/index.md"};function s(r,d,i,o,c,p){return a(),t("div")}const f=e(n,[["render",s]]);export{m as __pageData,f as default};
