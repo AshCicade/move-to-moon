@@ -24,4 +24,7 @@ features:
   - title: Apache POI 技术
     details: 绘制 Excel
     link: /guides/java/apache-poi/overview
+  - title: 消息中间件
+    details: RabbitMQ
+    link: /guides/消息中间件/
 ---

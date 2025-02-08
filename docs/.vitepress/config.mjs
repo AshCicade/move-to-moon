@@ -108,6 +108,35 @@ export default defineConfig({
           ]
         }
       ],
+      '/guides/消息中间件/': [
+        {
+          text: '消息中间件',
+          collapsible: true,
+          collapsed: true,
+          items: [
+            { text: '概述', link: '/guides/消息中间件/' },
+            {
+              text: 'RabbitMQ',
+              collapsible: true,
+              collapsed: true,
+              items: [
+                { text: '概述', link: '/guides/消息中间件/rabbitmq/' },
+                { 
+                  text: '工作模式', 
+                  collapsible: true,
+                  collapsed: true,
+                  items: [
+                    { text: '发布/订阅模式', link: '/guides/消息中间件/rabbitmq/publish-subscribe' },
+                    { text: '路由模式', link: '/guides/消息中间件/rabbitmq/routing' },
+                    { text: '主题模式', link: '/guides/消息中间件/rabbitmq/topics' },
+                    { text: 'PRC模式', link: '/guides/消息中间件/rabbitmq/rpc' },
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       /* {
         text: 'Examples',
         collapsed: true,
